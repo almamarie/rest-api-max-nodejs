@@ -1,0 +1,19 @@
+{
+  "name": "24-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/almamarie/rest-api-max-nodejs.git"
+  },
+  "author": "Louis Marie Atoluko Ayariga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almamarie/rest-api-max-nodejs/issues"
+  },
+  "homepage": "https://github.com/almamarie/rest-api-max-nodejs#readme"
+}
